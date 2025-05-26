@@ -1,0 +1,9 @@
+os
+pdfplumber
+python-docx 
+langchain
+langchain_community
+langchain_groq
+langchain_core
+faiss-cpu
+

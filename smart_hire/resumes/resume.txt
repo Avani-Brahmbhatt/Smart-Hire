@@ -1,0 +1,86 @@
+Avani Brahmbhatt  
+7874716464 | b.avani@outlook.com | LinkedIn | GitHub  
+
+EXPERIENCE  
+
+PETPOOJA | DATA SCIENCE INTERN  
+September 2024 – Present | Ahmedabad, Gujarat  
+• Wrote 1500+ creative and structured prompts for training/testing image generation models; prepared JSON datasets for LLM-based prompt pipelines.  
+• Performed image-task validation of 3500+ images, ensuring generated task names and questions aligned with visual content. Validated predicted image angles for accurate segregation; flagged inconsistencies and edge cases.  
+• Built QA datasets for internal model testing; identified bugs and suggested improvements for model performance.  
+• Participated in team meetings on ongoing AI/ML developments, gaining insights into trends and best practices in the rapidly evolving data science landscape.  
+
+SAHANA SYSTEMS LIMITED | AI/ML INTERN  
+June 2024 – August 2024 | Ahmedabad, Gujarat  
+• Gained proficiency in Python and OpenCV, conducted thorough exploratory data analysis (EDA) to extract actionable insights and developed strong expertise in core data science libraries such as Pandas, NumPy, and Matplotlib.  
+
+PROJECTS  
+
+LEGALBOT WITH RAG | LLAMA 3.1-8B INSTRUCT, RAG, FAISS, LANGCHAIN, PYTHON  
+March 2025 - April 2025  
+• Built a Legal QA chatbot using Meta’s LLaMA 3.1-8B-Instruct model with Retrieval-Augmented Generation, for queries related to Indian legal documents for domain-specific contextual responses.  
+• Created chatbot framework, integrated FAISS vector store and LangChain to enable semantic search and legal query handling over unstructured Indian law text corpus.  
+
+AUTOMATIC ESSAY GRADING SYSTEM | ROBERTA, TRANSFORMERS, PYTHON, GRADIO, PANDAS  
+February 2025 - March 2025  
+• Developed an AI-based essay scoring model using RoBERTa on a Kaggle dataset of 17,000 essays, incorporating synthetic data to handle class imbalance and improve generalization.  
+• Achieved a QWK score of 0.9441 and 75.52 percent validation accuracy; deployed a Gradio UI for instant feedback, highlighting strengths, errors, and improvement tips.  
+
+ACHIEVEMENTS  
+
+HACKATHON WINNING SMART KITCHEN MANAGEMENT SYSTEM  
+• Built a full-stack AI solution that leverages computer vision and generative AI, project won 1st place in a company-organized hackathon during internship.  
+
+SUMMARY  
+
+I am a Data Science Graduate with a strong foundation in Python, R and Gen AI. I have a proven record of developing innovative solutions. My work integrates advanced analytical skills with core industry frameworks, complemented by excellent problem-solving and communication abilities. I am passionate about leveraging technology to drive impactful results.  
+
+EDUCATION  
+
+GUJARAT UNIVERSITY  
+MSC. IN DATA SCIENCE  
+June 2024 - Present | Ahmedabad, Gujarat  
+Avg GPA: 9.1 / 10.0  
+
+GUJARAT UNIVERSITY  
+BSC. IN DATA SCIENCE  
+November 2021 - May 2024 | Ahmedabad, Gujarat  
+Avg GPA: 9.1 / 10.0  
+
+SHREYAS VIDYALAYA  
+10+2  
+June 2019 - April 2021 | Vadodara, Gujarat  
+HSC Score: 89  
+
+SKILLS  
+
+TECHNOLOGY  
+• Python | OOPs | R Programming  
+• SQL | MongoDB | PowerBI | Tableau  
+• Microsoft Office  
+
+LIBRARIES AND FRAMEWORKS  
+• Pandas | NumPy | Scikit-learn  
+• LangChain | TensorFlow | PyTorch  
+• OpenCV | NLTK | SpaCy  
+• Streamlit | Flask | Gradio  
+• Matplotlib | Seaborn  
+
+SOFT SKILLS  
+• Communication | Problem-Solving  
+• Adaptability | Teamwork | Creativity  
+• Time Management | Critical Thinking  
+
+LINKS  
+• GitHub: https://github.com/Avani-Brahmbhatt  
+• LinkedIn: https://www.linkedin.com/in/avani-brahmbhatt08/  
+• Medium: https://medium.com/@avanib282648  
+• Projects:  
+  - LegalBot: https://github.com/Avani-Brahmbhatt/LegalBot-With-RAG  
+  - Essay Grading: https://github.com/Avani-Brahmbhatt/Automatic-Essay-Grading-System  
+  - SmartResto: https://github.com/Avani-Brahmbhatt/SmartResto  
+
+Contact:  
+• Phone: 7874716464  
+• Email: b.avani@outlook.com
+

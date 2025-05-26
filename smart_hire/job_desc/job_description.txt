@@ -1,0 +1,40 @@
+Job Title: AI/ML Engineer
+
+Location: Remote / Hybrid (Preferred: Bangalore, India)
+
+Company Overview:
+We are a fast-growing tech startup building next-generation AI products that solve real-world business problems. Our team includes experts in computer vision, natural language processing, and large language models.
+
+Job Description:
+We are looking for a passionate and skilled AI/ML Engineer to join our growing team. You will be responsible for designing, developing, and deploying machine learning models for a variety of applications, including NLP, computer vision, and recommendation systems.
+
+Key Responsibilities:
+- Research and develop machine learning models for real-world problems.
+- Fine-tune and deploy transformer models (e.g., BERT, GPT, T5).
+- Develop pipelines for data preprocessing, training, and inference.
+- Collaborate with product and engineering teams to integrate ML solutions.
+- Maintain model performance with continuous evaluation and monitoring.
+- Document your work for reproducibility and knowledge sharing.
+
+Requirements:
+- Bachelor's or Master’s degree in Computer Science, AI, Data Science, or related field.
+- 2+ years of experience in machine learning and deep learning projects.
+- Proficiency in Python and ML libraries (e.g., scikit-learn, TensorFlow, PyTorch).
+- Strong understanding of NLP, transformers, and LLMs.
+- Experience working with unstructured data (text, images).
+- Familiarity with MLOps tools (Docker, MLflow, Hugging Face, etc.) is a plus.
+
+Preferred Qualifications:
+- Experience with cloud platforms (AWS, GCP, Azure).
+- Research background or publications in AI/ML.
+- Contributions to open-source ML projects.
+
+What We Offer:
+- Competitive salary and flexible work environment.
+- Opportunity to work on cutting-edge AI technologies.
+- Collaborative and inclusive team culture.
+- Career growth and learning support.
+
+To Apply:
+Submit your updated resume and (optionally) links to your GitHub or portfolio.
+

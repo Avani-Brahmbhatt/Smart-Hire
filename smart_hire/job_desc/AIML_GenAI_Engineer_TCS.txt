@@ -1,0 +1,53 @@
+ About the job
+
+Role** AIML GenAI Engineer
+
+Required Technical Skill Set** NLP, LAMA Model, AI, ML, GenAI
+
+Desired Experience Range** 4 – 7 years
+
+Location of Requirement: Mumbai, Hyderabad, Bangalore
+
+
+Desired Competencies (Technical/Behavioral Competency)
+
+Must-Have**
+
+(Ideally should not be
+
+more than 3-5) 
+
+· Expertise on NLP, LAMA Model 
+
+· Expertise AI, ML, GENAI 
+
+· Experience on identifying right model and train models. 
+
+· Machine learning (ML), Data Science, Statistical modeling. 
+
+· Python Programming. 
+
+· Develop and maintain a platform that automates creating, training, deploying and updating machine learning models. 
+
+· Build, maintain, and optimize machine learning solutions. 
+
+· experience building large-scale data pipelines. 
+
+· GEN-AI knowledge
+
+Good-to-Have 
+
+Devops Knowledge
+
+
+SN Responsibility of / Expectations from the Role
+
+     Understanding the requirements.
+     designs, builds, and runs machine learning systems at scale.
+     maintaining the infrastructure that supports the models and algorithms that power the products
+     improving your model's accuracy by tweaking its parameters or updating the data it uses for training
+     Develop and maintain a platform that automates creating, training, deploying and updating machine learning models.
+     Customer Product Documentation
+     Participation in trouble report reviews and analysis
+     System Integration Testing
+
