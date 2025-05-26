@@ -1,9 +1,26 @@
-os
-pdfplumber
-python-docx 
+# Core dependencies
 langchain
-langchain_community
-langchain_groq
-langchain_core
+langchain-community
+langchain-groq
 faiss-cpu
+sqlalchemy
+sentence-transformers
 
+# Document processing
+pypdf
+python-docx
+docx2txt
+
+# AI/ML
+openai-whisper
+scikit-learn
+numpy
+
+# Google services (optional)
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+
+# Utilities
+python-dotenv
+requests

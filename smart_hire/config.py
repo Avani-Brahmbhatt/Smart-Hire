@@ -11,9 +11,9 @@ class Config:
     DATABASE_URL = os.getenv("DATABASE_URL", "sqlite:///hiring_agent.db")
    
     # API Keys
-    GROQ_API_KEY = os.getenv("GROQ_API_KEY", "your_groq_api_key_here")
-    GMAIL_PASSWORD = os.getenv("GMAIL_PASSWORD", "your_app_password")
-    GMAIL_EMAIL = os.getenv("GMAIL_EMAIL", "your_email@gmail.com")
+    GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+    GMAIL_PASSWORD = os.getenv("GMAIL_PASSWORD")
+    GMAIL_EMAIL = os.getenv("GMAIL_EMAIL")
     GOOGLE_SERVICE_ACCOUNT_FILE = os.getenv("GOOGLE_SERVICE_ACCOUNT_FILE", "service_account.json")
    
     # Model settings
