@@ -18,7 +18,7 @@ class Config:
    
     # Model settings
     EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
-    LLM_MODEL = "llama3-8b-8192"
+    LLM_MODEL = "gemma2-9b-it"
     WHISPER_MODEL = "base"
    
     # Processing settings

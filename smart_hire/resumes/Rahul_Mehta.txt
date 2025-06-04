@@ -1,0 +1,61 @@
+Rahul Mehta
+rahulmehta.dev@gmail.com | Boston, MA | (617) 321-4455 | linkedin.com/in/rahulmehta-dev
+github.com/rahul-mehta-dev
+EDUCATION
+
+Northeastern University — Boston, MA
+Master of Science in Computer Science | GPA: 3.8/4.0
+Graduated: December 2019
+Relevant Coursework: Object-Oriented Design, Web Development, Database Systems, Algorithms
+SKILLS
+
+    Programming: Python (Advanced), Django, Flask, JavaScript, HTML, CSS, C++
+
+    Databases: PostgreSQL, MySQL, SQLite
+
+    Tools: Git, Linux, Docker (basic), Postman, JIRA
+
+    Testing: PyTest, UnitTest
+
+    Soft Skills: Team Collaboration, Debugging, Documentation
+
+WORK EXPERIENCE
+
+Backend Developer (Python)
+GreenByte Solutions, Boston, MA
+January 2020 – Present
+
+    Designed RESTful APIs using Django REST Framework to support data-driven web platforms for health startups.
+
+    Led the backend architecture for a multi-tenant app, improving response time by 35%.
+
+    Created robust unit and integration tests using PyTest for backend modules and API endpoints.
+
+    Collaborated with frontend team using React via RESTful API endpoints.
+
+Software Developer Intern
+TechBridge AI, Boston, MA
+May 2019 – August 2019
+
+    Developed Flask-based APIs to support ML model predictions for a client dashboard.
+
+    Participated in weekly sprint reviews and used Git for version control and collaboration.
+
+PROJECTS
+
+Budget Buddy | Graduate Capstone
+github.com/rahul-mehta-dev/budget-buddy
+
+    Built a Django app that helps users categorize expenses and track budgets visually using Chart.js.
+
+    Integrated with SQLite and added user authentication using Django’s built-in auth system.
+
+News Aggregator with Sentiment Analysis | Personal Project
+
+    Used Flask, BeautifulSoup, and TextBlob to scrape news headlines and analyze sentiment.
+
+    Implemented a simple UI to display and filter articles by category and tone.
+
+CERTIFICATIONS
+
+    Python for Web Development – Coursera (2021)

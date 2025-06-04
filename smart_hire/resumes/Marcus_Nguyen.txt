@@ -1,0 +1,68 @@
+Marcus Nguyen
+marcus.nguyen.dev@gmail.com | Remote | (415) 908-7712 | linkedin.com/in/marcusnguyen-dev
+github.com/marcus-nguyen
+EDUCATION
+
+General Assembly – Software Engineering Immersive
+San Francisco, CA | Graduated: March 2018
+
+    500+ hours of hands-on coding, full-stack projects, and agile development practices.
+
+SKILLS
+
+    Languages: Python (Expert), JavaScript, Bash, SQL
+
+    Frameworks: Django, Flask, FastAPI, React
+
+    Cloud & Tools: AWS (EC2, RDS, S3, Lambda, IAM), Docker, Git, GitHub Actions, Terraform
+
+    Databases: PostgreSQL, MySQL, SQLite
+
+    Testing: PyTest, Selenium, Postman
+
+    Soft Skills: Remote Team Communication, Documentation, DevOps Collaboration
+
+WORK EXPERIENCE
+
+Senior Python Developer
+ZeroSum Cloud, Remote
+April 2021 – Present
+
+    Led the development of a Django-based data pipeline platform processing millions of records across industries.
+
+    Deployed microservices on AWS using Docker containers and EC2 with RDS-backed PostgreSQL.
+
+    Built internal tools in Flask for log management, schema validation, and automated testing.
+
+    Implemented RBAC and token-based authentication across services.
+
+Python Developer
+BrightScript Labs, Remote
+July 2018 – March 2021
+
+    Built REST APIs in Django for an e-commerce inventory system that scaled to support 100k+ SKUs.
+
+    Used AWS services (S3 for media, CloudWatch for monitoring) and automated infrastructure using Terraform.
+
+    Wrote comprehensive unit and integration tests with PyTest and maintained 90%+ coverage.
+
+PROJECTS
+
+ResuMatch | Open Source
+github.com/marcus-nguyen/resumatch
+
+    Django and React web app that scores resumes against job descriptions using NLP models.
+
+    Hosted on AWS (EC2 + S3), includes CI/CD with GitHub Actions and unit tests via PyTest.
+
+TaskFlow | Freelance SaaS
+
+    Built a FastAPI + Vue-based team task management platform.
+
+    Integrated AWS S3 for file attachments and PostgreSQL via RDS for data persistence.
+
+CERTIFICATIONS
+
+    AWS Certified Developer – Associate (2022)
+
+    Django Advanced Concepts – Udemy (2021)

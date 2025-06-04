@@ -124,7 +124,7 @@ def extract_resume_summary(resume_text: str) -> dict:
 # 2. Load Resume & JD Text
 # -----------------------------
 resume_path = "/home/petpooja-724/Python_Problems/RAG/langchain/smart_hire/resumes/Avani_Brahmbhatt_Resume.pdf"  # change to your path
-jd_path = "/home/petpooja-724/Python_Problems/RAG/langchain/smart_hire/job_desc/AIML_GenAI_Engineer_TCS.txt"
+jd_path = "/home/petpooja-724/Python_Problems/RAG/langchain/Smart-Hire/smart_hire/job_desc/advant.txt"
 
 resume_text = extract_text(resume_path)
 jd_text = extract_text(jd_path)

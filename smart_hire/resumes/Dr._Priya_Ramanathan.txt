@@ -1,0 +1,73 @@
+Dr. Priya Ramanathan
+priya.ramanathan.ai@gmail.com | Remote | (650) 788-3341 | linkedin.com/in/priyaramanathan
+github.com/priyar-ai | priyaramanathan.dev
+EDUCATION
+
+Ph.D. in Computer Science – University of Illinois Urbana-Champaign
+Dissertation: “Interpretable Deep Learning Models for Biomedical Sequence Data”
+Graduated: May 2019
+
+Bachelor of Technology in Electrical Engineering – IIT Madras
+Graduated: May 2013
+SKILLS
+
+    Languages: Python (Expert), R, Julia, SQL, Bash
+
+    Libraries/Frameworks: PyTorch, TensorFlow, Scikit-learn, Flask (basic), FastAPI
+
+    DevOps: Docker, MLflow, DVC, AWS EC2/S3/SageMaker, Kubernetes (basic)
+
+    Tools: Git, Jupyter, Streamlit, Weights & Biases
+
+    Databases: PostgreSQL, MongoDB
+
+    NLP/ML: BERT, XGBoost, SHAP, Transformers, OpenCV
+
+EXPERIENCE
+
+Senior Machine Learning Scientist
+Synaptica AI, Remote
+April 2020 – Present
+
+    Designed deep learning pipelines in PyTorch and Scikit-learn for financial anomaly detection.
+
+    Trained and deployed multiple models on AWS SageMaker and EC2.
+
+    Built RESTful prediction APIs using FastAPI; basic Flask knowledge used for MVP prototypes.
+
+    Maintained experiment tracking with MLflow and model versioning using DVC.
+
+Machine Learning Research Intern
+Google Research, Mountain View, CA
+Summer 2018
+
+    Published 2 peer-reviewed papers on sequence labeling tasks using Transformer architectures.
+
+    Used Google Cloud ML pipelines for distributed training and model serving.
+
+PROJECTS
+
+ModelAudit | Research Toolkit
+github.com/priyar-ai/modelaudit
+
+    Python toolkit for debugging black-box ML models with SHAP, LIME, and counterfactuals.
+
+    Deployed demo version using Streamlit and Docker; future migration to Flask API planned.
+
+BioLabel | Academic Collaboration
+
+    Built an NLP model using BERT to auto-annotate biomedical abstracts.
+
+    Deployed FastAPI wrapper for internal use; not production-focused.
+
+PUBLICATIONS
+
+    Interpretable Transformer-Based Models for Genomic Data Analysis, NeurIPS 2020
+
+    Adversarial Robustness in Biomedical NLP, ACL 2021
+
+CERTIFICATIONS
+
+    AWS Certified Machine Learning – Specialty (2023)
+
+    FastAPI Crash Course – TestDriven.io (2022)

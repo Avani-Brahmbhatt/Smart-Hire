@@ -1,0 +1,55 @@
+AI/ML Trainee Software Engineer
+
+Engineering · Remote
+About this role:
+
+Note: This is an unpaid trainee position. You won't be paid anything during the training period, but you will receive:
+
+    Comprehensive guidance and mentorship
+    All training materials for free
+    Opportunity to learn and grow
+    Your package will start once you are onboarded
+
+Are you an ambitious and curious individual with a passion for AI, machine learning, and software development? We're looking for AI/ML Trainee Software Engineers who are excited to build intelligent applications and work with cutting-edge technologies like Generative AI, OpenAI, and cloud platforms.
+
+This trainee opportunity is ideal for aspiring engineers who want to gain hands-on experience in AI-driven software engineering, backend development, and full-stack web applications while collaborating with a team of experienced professionals.
+Key Responsibilities
+
+    Build and maintain AI-powered applications using Python frameworks such as FastAPI and Flask
+    Integrate models and APIs from platforms like OpenAI, Claude, and other LLM providers
+    Collaborate on full-stack features using React.js for frontend development
+    Work with AWS and other cloud platforms to deploy, monitor, and scale services
+    Assist in data preprocessing, feature engineering, and model evaluation for machine learning tasks
+    Participate in research, prototyping, and implementation of Generative AI features
+    Write clean, maintainable, and well-documented code
+
+Requirements
+
+    6 months of programming experience (academic, personal projects, or internships)
+    Strong knowledge of Python and JavaScript
+    Familiarity with backend frameworks like FastAPI or Flask
+    Understanding of machine learning fundamentals and data science workflows
+    Comfortable working across the stack (frontend and backend)
+    Curiosity, initiative, and a willingness to learn and adapt
+
+Preferred
+
+    Experience with React.js and modern frontend workflows
+    Exposure to Generative AI, LLMs (e.g., GPT, Claude), and prompt engineering
+    Familiarity with OpenAI API, Hugging Face, or similar ML APIs
+    Knowledge of AWS, Vercel, or cloud deployment tools
+    Background in statistics, data analysis, or model evaluation techniques
+
+What You’ll Gain
+
+    Hands-on experience in building AI-driven and full-stack applications
+    Mentorship from engineers working at the intersection of AI and software engineering
+    Exposure to real-world projects using industry-standard tools and practices
+    Opportunity to explore and innovate with Generative AI and large language models
+    A fast-paced, collaborative learning environment to sharpen your technical and problem-solving skills
+
+Tech Stack:
+fastapi reactjs machine learning generative ai openai aws flask computer vision generative ai research
+Required Experience:
+
+Internship

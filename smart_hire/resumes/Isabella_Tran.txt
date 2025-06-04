@@ -1,0 +1,65 @@
+Isabella Tran
+isabella.tran.dev@gmail.com | Seattle, WA | (206) 782-1934 | linkedin.com/in/isabellatran
+github.com/isabellatran
+EDUCATION
+
+University of Washington — Seattle, WA
+Bachelor of Science in Computer Engineering | GPA: 3.5/4.0
+Graduated: June 2016
+Relevant Coursework: Human-Computer Interaction, Cloud Computing, Algorithms, Operating Systems
+SKILLS
+
+    Languages: Python (Advanced), JavaScript, TypeScript, HTML, CSS, SQL
+
+    Frameworks: Flask, React, Next.js, Tailwind CSS
+
+    Cloud & Tools: AWS (Lambda, S3, CloudFront, DynamoDB), GitHub Actions, Docker
+
+    Databases: PostgreSQL, MongoDB
+
+    Soft Skills: Cross-Functional Communication, UX Awareness, Agile Workflow
+
+WORK EXPERIENCE
+
+Full Stack Engineer (Python/React)
+Aurora AI, Remote
+June 2020 – Present
+
+    Developed full-stack features for an AI-based annotation tool using React on frontend and Flask backend.
+
+    Integrated AWS Lambda and S3 to support media upload, processing, and classification features.
+
+    Led frontend optimization effort that improved load time by 40% on mobile browsers.
+
+    Built CI/CD pipeline with GitHub Actions and tested Python endpoints with PyTest.
+
+Frontend Engineer
+CyanTech, Seattle, WA
+August 2016 – May 2020
+
+    Created reusable component libraries in React with TypeScript for internal and external dashboards.
+
+    Collaborated with backend team (in Django) but primarily focused on design systems and integration.
+
+    Used Python only in tooling scripts (report automation, JSON config handling).
+
+PROJECTS
+
+CodeReview Compass | Solo Project
+github.com/isabellatran/codereview-compass
+
+    Built a tool in Flask and React to visualize and score pull request activity within a GitHub repo.
+
+    Used OAuth, PostgreSQL, and D3.js for interactive dashboards.
+
+AWS Expense Tracker | Personal Utility
+
+    Created a Flask app that scrapes AWS billing data and visualizes cost trends with Plotly.
+
+    Deployed via EC2 with CloudFront as CDN and Route53 for custom domain.
+
+CERTIFICATIONS
+
+    AWS Certified Cloud Practitioner (2021)
+
+    React Advanced Concepts – Frontend Masters (2023)

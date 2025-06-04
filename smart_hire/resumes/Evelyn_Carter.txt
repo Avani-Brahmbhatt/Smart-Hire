@@ -1,0 +1,60 @@
+Evelyn Carter
+evelyncarter.dev@gmail.com | Austin, TX | (737) 456-9087 | linkedin.com/in/evelyncarter
+github.com/evelyn-carter-dev
+EDUCATION
+
+University of Texas at Austin — Austin, TX
+Bachelor of Science in Software Engineering | GPA: 3.7/4.0
+Graduated: May 2018
+Relevant Coursework: Software Architecture, Operating Systems, Database Management, Cloud Systems
+SKILLS
+
+    Programming: Java (Advanced), Spring Boot, Python (Basic), JavaScript, Bash
+
+    DevOps & Cloud: Docker, Jenkins, Git, Azure (basic)
+
+    Databases: Oracle DB, MongoDB
+
+    Tools: Maven, IntelliJ, Eclipse, Postman
+
+    Soft Skills: Problem Solving, Documentation, Peer Mentoring
+
+WORK EXPERIENCE
+
+Java Backend Developer
+NovaLogic Systems, Austin, TX
+August 2018 – Present
+
+    Developed scalable REST APIs using Spring Boot for enterprise clients in the finance and insurance domains.
+
+    Wrote batch processing scripts in Java for handling and migrating data across internal platforms.
+
+    Contributed to DevOps pipelines using Jenkins and Docker to support CI/CD workflows.
+
+    Occasionally contributed Python scripts for data preprocessing, though not part of core development.
+
+Software Engineering Intern
+CodeAxis LLC, Austin, TX
+June 2017 – August 2017
+
+    Built Java-based modules for customer-facing analytics dashboards; designed SQL queries for KPIs.
+
+    Participated in Agile ceremonies and contributed to sprint planning.
+
+PROJECTS
+
+Insurance Quote Engine | Company-Sponsored
+
+    Designed a microservice-based system in Java/Spring that calculates and returns insurance premium quotes.
+
+    Created interactive API docs with Swagger UI for third-party clients.
+
+Simple Weather App | Personal Project
+
+    Used Python to scrape and parse weather data via OpenWeatherMap API.
+
+    Basic CLI tool, later extended with a JavaFX GUI.
+
+CERTIFICATIONS
+
+    Java SE 11 Developer Certification (Oracle, 2021)

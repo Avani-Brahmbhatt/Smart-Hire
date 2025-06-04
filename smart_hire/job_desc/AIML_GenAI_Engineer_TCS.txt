@@ -17,29 +17,13 @@ Must-Have**
 
 more than 3-5) 
 
-· Expertise on NLP, LAMA Model 
-
-· Expertise AI, ML, GENAI 
-
-· Experience on identifying right model and train models. 
-
-· Machine learning (ML), Data Science, Statistical modeling. 
-
-· Python Programming. 
-
-· Develop and maintain a platform that automates creating, training, deploying and updating machine learning models. 
-
-· Build, maintain, and optimize machine learning solutions. 
-
-· experience building large-scale data pipelines. 
-
-· GEN-AI knowledge
+· Expertise on NLP, LAMA Model · Expertise AI, ML, GENAI · Experience on identifying right model and train models. · Machine learning (ML), Data Science, Statistical modeling. · Python Programming. · Develop and maintain a platform that automates creating, training, deploying and updating machine learning models. · Build, maintain, and optimize machine learning solutions. · experience building large-scale data pipelines. · GEN-AI knowledge
 
 Good-to-Have 
 
 Devops Knowledge
 
-
+405c2203-45f0-4068-aa43-d7ec08ed3201
 SN Responsibility of / Expectations from the Role
 
      Understanding the requirements.

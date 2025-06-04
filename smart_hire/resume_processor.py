@@ -1,7 +1,7 @@
 # resume_processor.py
 import os
 from typing import List, Tuple
-from langchain_community.document_loaders import PyPDFLoader, Docx2txtLoader
+from langchain_community.document_loaders import PyPDFLoader, Docx2txtLoader, TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.schema import Document
 from config import Config
@@ -22,6 +22,8 @@ class ResumeProcessor:
                 loader = PyPDFLoader(file_path)
             elif file_path.endswith('.docx'):
                 loader = Docx2txtLoader(file_path)
+            elif file_path.endswith('.txt'):
+                loader = TextLoader(file_path, encoding="utf-8")
             else:
                 logger.warning(f"Unsupported file format: {file_path}")
                 return []
